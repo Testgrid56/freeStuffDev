@@ -1,0 +1,11 @@
++++
+date = "2024-05-09T14:50:01+05:30"
+tags = ["testgrid", "testautomation", "qaautomation", "endtoendtesting", "mobiletesting", "webtesting", "uiautomation", "apitesting", "devops", "aitesting", "codelessautomation"]
+title="TestGrid for Software Testing"
+link = "https://testgrid.io/"
+thumbnail = "https://testgrid.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.0d49ff30.png&w=1080&q=75"
+snippet="TestGrid is a powerful test automation platform that empowers developers and QA professionals to streamline their testing process. Create and execute automated tests for web, mobile, and API applications with ease."
++++
+The free tier available for TestGrid (software testing) that allows you to try out some of its functionalities. Here's what's included in the free plan:
+Manual Testing: You can perform manual testing on web and mobile apps for free, with a limit of 60 minutes per month.
+No-Code Automation Testing: TestGrid offers 200 minutes per month for free to try out their no-code automation features. This allows you to create automated tests without needing to write code.
